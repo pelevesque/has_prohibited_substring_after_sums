@@ -38,6 +38,6 @@
     "standard": "^13.0.1"
   },
   "dependencies": {
-    "@pelevesque/sum-digits": "^0.0.8"
+    "@pelevesque/sum-digits": "^0.0.9"
   }
 }
